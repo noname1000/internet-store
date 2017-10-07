@@ -1,0 +1,11 @@
+1. mysql -u root -p
+2. CREATE DATABASE dbname;
+3. GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' IDENTIFIED BY 'password'; OR
+GRANT SELECT ON *.* TO 'username'@'localhost';
+4. mysql -u username -p dbname < filename.sql
+
+GRANT:
+https://dev.mysql.com/doc/refman/5.5/en/grant.html
+
+https://www.a2hosting.co.uk/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line
+
