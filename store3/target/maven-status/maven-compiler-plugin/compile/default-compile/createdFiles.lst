@@ -1,0 +1,9 @@
+com\example\store3\service\hibernate\ProductServiceImpl.class
+com\example\store3\web\controller\ProductController.class
+com\example\store3\dao\ProductDao.class
+com\example\store3\domain\Purchase.class
+com\example\store3\service\ProductService.class
+com\example\store3\dao\hibernate\ProductDaoImpl.class
+com\example\store3\domain\Customer.class
+com\example\store3\domain\Product.class
+com\example\store3\web\controller\HomeController.class

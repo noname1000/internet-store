@@ -1,0 +1,9 @@
+D:\NetBeansProjects\store3\src\main\java\com\example\store3\domain\Customer.java
+D:\NetBeansProjects\store3\src\main\java\com\example\store3\dao\hibernate\ProductDaoImpl.java
+D:\NetBeansProjects\store3\src\main\java\com\example\store3\domain\Product.java
+D:\NetBeansProjects\store3\src\main\java\com\example\store3\domain\Purchase.java
+D:\NetBeansProjects\store3\src\main\java\com\example\store3\service\hibernate\ProductServiceImpl.java
+D:\NetBeansProjects\store3\src\main\java\com\example\store3\dao\ProductDao.java
+D:\NetBeansProjects\store3\src\main\java\com\example\store3\service\ProductService.java
+D:\NetBeansProjects\store3\src\main\java\com\example\store3\web\controller\ProductController.java
+D:\NetBeansProjects\store3\src\main\java\com\example\store3\web\controller\HomeController.java
